@@ -13,3 +13,6 @@ de desarrollo rápido y moderno, ideal para construir aplicaciones web ligeras s
 
 ## 📁 Estructura del proyecto
 
+## Integrantes del equipo
+- Francisco Javier Flores Rivera
+
