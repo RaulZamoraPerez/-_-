@@ -1,6 +1,7 @@
 import './style.css'
 import { createOpenRouter } from '@openrouter/ai-sdk-provider'
 import { generateText, streamText } from 'ai'
+//js
 
 const openrouter = createOpenRouter({
   apiKey: import.meta.env.VITE_OPENROUTER_API_KEY
