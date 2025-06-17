@@ -9,7 +9,7 @@ de desarrollo rápido y moderno, ideal para construir aplicaciones web ligeras s
 - 💡 JavaScript puro (Vanilla JS)
 - 🔄 Recarga en caliente (HMR)
 - 📁 Estructura sencilla y modular
-- ✅ Listo para producción con un solo comando
+- ✅ Listo para producción con un solo comando aa
 
 ## 📁 Estructura del proyecto
 
